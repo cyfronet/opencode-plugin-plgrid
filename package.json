@@ -1,0 +1,34 @@
+{
+  "name": "opencode-plugin-plgrid",
+  "version": "0.1.0",
+  "description": "OpenCode V2 plugin that registers the PLGrid Forge (Cyfronet) provider and its models",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateusz-Smolarczyk-AGH/opencode-plugin-plgrid.git"
+  },
+  "homepage": "https://github.com/Mateusz-Smolarczyk-AGH/opencode-plugin-plgrid#readme",
+  "bugs": {
+    "url": "https://github.com/Mateusz-Smolarczyk-AGH/opencode-plugin-plgrid/issues"
+  },
+  "author": "Mateusz Smolarczyk",
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "plgrid",
+    "llmlab",
+    "provider",
+    "openai-compatible"
+  ]
+}
